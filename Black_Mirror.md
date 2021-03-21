@@ -1,7 +1,7 @@
 # Black Mirror Episodes
 
 ## Season 01
-1. 1The National Anthem
+1. The National Anthem
 2. Fifteen Million Merits
 3. The Entire History of You
 
